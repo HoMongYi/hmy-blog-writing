@@ -1,0 +1,21 @@
+# Local credentials, editor files, and execution artifacts
+.env
+.env.*
+*.pem
+*.key
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+
+# Keep personal manuscripts and CMS exports outside the public package
+/private/
+/drafts/
+/backups/
+/evals/runs/
+/HANDOFF.md
+*.lexical.json
+ghost-export*.json

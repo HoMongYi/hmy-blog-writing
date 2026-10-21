@@ -1,0 +1,6 @@
+interface:
+  display_name: "HMY Blog Writing"
+  short_description: "경험과 근거를 보존하며 다양한 주제의 한국어 블로그를 쓰고 다듬는 스킬"
+  default_prompt: "$hmy-blog-writing으로 한국어 블로그 글을 쓰거나 다듬어줘. 독자와 목적에 맞는 목소리로 쓰고, 확인된 경험과 사실을 보존하며 필요한 참조만 읽어줘."
+policy:
+  allow_implicit_invocation: false
